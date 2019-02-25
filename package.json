@@ -1,0 +1,15 @@
+{
+  "name": "mywiki",
+  "version": "1.0.0",
+  "description": "*Tags: #readme*",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hads public -o",
+    "start": "hads public -o -r"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hads": "^1.7.2"
+  }
+}
