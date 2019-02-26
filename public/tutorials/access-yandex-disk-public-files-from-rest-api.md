@@ -1,5 +1,5 @@
 # Access Yandex Disk Public Files Using Official REST API
-*Tags: #yandexdisk #javascript* 
+*Tags: #yandexdisk #javascript #react * 
 
 How to access publicly shared files via the Yandex.Disk REST API. This approach doesn't require an API key.
 

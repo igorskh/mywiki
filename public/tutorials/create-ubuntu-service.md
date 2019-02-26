@@ -1,5 +1,5 @@
 # Create Custom Ubuntu Service
-*Tags: #ubuntu #bash* 
+*Tags: #ubuntu #bash * 
 
 How to setup an executable as a service in Ubuntu.
 
