@@ -4,6 +4,6 @@ Here is my personal wiki to keep some scripts and tutorials.
 
 ## Table of contents
 
-[Tutorials](/tutorials/)
+[Tutorials](tutorials/)
 
-[Snippets](/snippets/)
+[Snippets](snippets/)
