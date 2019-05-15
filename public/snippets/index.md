@@ -9,3 +9,5 @@
 
 [Pac-Man library for R server in shiny access error](r-shiny-server-pacman-access.md)
 
+[Script for conditional backup of a folder](conditional-backup-bash.md)
+
