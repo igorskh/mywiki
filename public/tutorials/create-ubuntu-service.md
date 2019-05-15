@@ -10,7 +10,7 @@ Create a service file:
 ```
 
 With the following content:
-```
+```conf
 [Unit]
 Description=Service Name
 [Service]

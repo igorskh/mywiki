@@ -3,7 +3,7 @@
 
 Problem: When running shiny server with pacman library, get an error:
 
-```
+```conf
 lib = /usr/local/lib/R/site-library is not writable
 ```
 

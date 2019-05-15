@@ -35,7 +35,7 @@ pip install pyvirtualdisplay
 ```
 
 ## Python code
-```
+```python
 from pyvirtualdisplay import Display 
 from selenium import webdriver
 import folium
