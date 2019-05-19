@@ -52,3 +52,26 @@ In order to perform a GET request, install the Axios library:
 npm i axios
 ```
 
+```javascript
+import React, { Component } from 'react';
+import axios from 'axios';
+
+
+class App extends Component {
+
+  folderPublicKey = "https%3A%2F%2Fyadi.sk%2Fd%2FPB0WCovt4v-Tkg";
+  endPoint = "https://cloud-api.yandex.net/v1/disk/public/resources"
+
+  listFolder(path) {
+    axios.get(this.endPoint + '/?public_key=' + this.folderPublicKey + "&path=" + path)
+      .then((response) => {
+        response.data._embedded.items.forEach(el => {
+          // process file or folder
+        });
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  }
+}
+```
