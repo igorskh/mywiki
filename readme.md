@@ -3,7 +3,7 @@
 
 Markdown-based personal storage for docs
 
-## Search
+## Search regex
 Regex for a tag:
 ```
 \*Tags:.+(#tag)\s{1}.+\*
