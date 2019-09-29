@@ -1,4 +1,6 @@
 # Table of contents
+[Flush iptables](flush_iptables.md)
+
 [Table of contents](index.md)
 
 [Setup a reverse proxy in Nginx](nginx-reverse-proxy.md)
