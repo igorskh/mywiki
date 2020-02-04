@@ -1,4 +1,6 @@
 # Table of contents
+[Run GUI application in Docker](run-gui-apps-in-docker.md)
+
 [Flush iptables](flush_iptables.md)
 
 [Table of contents](index.md)
