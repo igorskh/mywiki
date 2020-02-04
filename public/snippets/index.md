@@ -17,3 +17,7 @@
 
 [Git shows state modified but no actual changes](git-shows-modified-but-no-changes.md)
 
+[Docker custom data root folder](docker-custom-data-root.md)
+
+[Commands for managing LVM](lvm-management.md)
+
