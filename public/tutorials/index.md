@@ -1,4 +1,6 @@
 # Table of contents
+[Install Protobuf and gRPC on Ubuntu using CMake](install-protobuf-and-grpc.md)
+
 [Clone linux volume remotely using dd and ssh](clone-linux-volume-remotely.md)
 
 [Setup secure connection with Let's encrypt for Nginx](lets-encrypt-ubuntu.md)
