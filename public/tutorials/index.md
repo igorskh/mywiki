@@ -15,6 +15,8 @@
 
 [Clone linux volume remotely using dd and ssh](clone-linux-volume-remotely.md)
 
+[Matlab Python Engine Installation Failed on macOS](install-matlab-python-engine-macos.md)
+
 [Install USRP UHD on Raspberry PI 3 with Python Support](usrp-uhd-on-raspberry-pi.md)
 
 [Install Protobuf and gRPC on Ubuntu using CMake](install-protobuf-and-grpc.md)
