@@ -8,8 +8,8 @@
     "start": "hads public -o -r"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
-    "hads": "^1.7.2"
+    "hads": "^2.1.0"
   }
 }
