@@ -4,8 +4,9 @@
   "description": "*Tags: #readme*",
   "main": "index.js",
   "scripts": {
-    "dev": "hads public -o",
-    "start": "hads public -o -r"
+    "dev": "hads docs -o",
+    "start": "hads docs -o -r",
+    "build": "hads docs -e"
   },
   "author": "",
   "license": "",
