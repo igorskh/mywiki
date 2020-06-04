@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "hads docs -o",
     "start": "hads docs -o -r",
-    "build": "hads docs -e"
+    "build": "hads docs -e; ./fix_toc.sh"
   },
   "author": "",
   "license": "",

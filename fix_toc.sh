@@ -1,0 +1,1 @@
+sed -E -i '' 's/(.+)\.html/\1\//g' public/index.html
