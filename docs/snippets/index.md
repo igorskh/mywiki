@@ -1,4 +1,6 @@
 # Table of contents
+[Script to set a custom android virtual device (AVD) folder](custom-android-virtual-device-folder.md)
+
 [Flush iptables](flush_iptables.md)
 
 [Script for conditional backup of a folder](conditional-backup-bash.md)
