@@ -1,4 +1,5 @@
 # Install USRP UHD on Raspberry PI 3 with Python Support
+*Tags: #rpi * 
 
 ## Prerequisites
 - Raspberry PI 3 armv71

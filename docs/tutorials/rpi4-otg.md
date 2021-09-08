@@ -17,3 +17,8 @@ iface usb0 inet static
   address 10.55.0.1
   netmask 255.255.255.248
 ```
+
+## Windows 10 
+A missing driver: [https://modclouddownloadprod.blob.core.windows.net/shared/mod-rndis-driver-windows.zip](https://modclouddownloadprod.blob.core.windows.net/shared/mod-rndis-driver-windows.zip)
+
+It needs to be applied to a *Ports (COM & LPT)* in the Device Manager
